@@ -1,0 +1,189 @@
+body{
+    font-family: 'Montserrat';
+    text-align: center;
+}
+
+/*   Title-section  */
+
+#title{
+    background-color: #0E6EFD;
+    color: #FFFFFF;
+    font-family: 'Montserrat';
+    text-align: left;
+    
+}
+.brand-name{
+    font-family: 'Montserrat';
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+#title .container-fluid{
+    padding:3% 15% 0%;
+}
+.traveller-img{
+    width: 80%;
+}
+.traveller-container{
+    text-align: center;
+}
+.big-heading{
+    font-size: 3rem;
+    font-weight: bold; 
+    margin: 7% 0% 5%; 
+    line-height: 1.5; 
+}
+.title-description{
+    font-size: 1rem;
+    margin: 5% 0% 7%;
+    line-height: 1.5; 
+}
+
+.title-text{
+    padding: 5% 3% 5% 0%;
+    margin: 0;
+}
+
+
+/*Discover-section*/
+#discover{
+    background-color: #FFFFFF;
+    padding: 100px;
+    text-align: center;
+    font-family: 'Montserrat';
+}
+
+.discover-img{
+    width: 250px;
+    height: 200px;
+    padding-bottom: 10px;
+    border-radius: 15px;
+}
+
+.destination{
+    text-align: left;
+    margin-bottom: 20px;  
+}
+
+.destination-heading{
+    font-size: 1.5rem;
+    font-weight: bolder;
+}
+
+.destination p{
+    font-size: 1.4rem;
+    color: gray;
+    font-weight: 500;
+}
+/*Caption-section*/
+#caption{
+    background-color: #0E6EFD;
+    color: #FFFFFF;
+    font-family: 'Merriweather';
+    padding:7% 10%;
+    text-align: center;
+}
+
+.caption-text{
+    font-size: 2rem;
+    font-style: italic;  
+}
+
+/*explore-section*/
+#explore{
+    background-color: #88b7fc;
+    font-family: 'Merriweather';
+    padding: 100px;
+    text-align: center;
+}
+
+.explore-heading{
+    font-size: 3.5rem;
+    font-weight: bold;
+    
+}
+
+.explore-brand{
+    font-style: italic;
+    font-weight: bold;
+    color: #0E6EFD;
+}
+.carousel-inner{
+    width: 730px;
+    height: 400px;
+}
+.explore-img{
+    width: 730px;
+    height: 400px;
+}
+.carousel-item h2{
+    color: #0E6EFD;
+}
+
+/*testimonials-section*/
+#testimonials{
+    background-color: #FFFFFF;
+    font-family: 'Montserrat';
+    padding:7% 10%;
+    text-align: center;
+}
+
+.testimonials-heading{
+    font-size: 3rem;
+    font-weight: bold;
+    color: grey;
+}
+
+.testimonial-users{
+    width: 40%;
+    border-radius: 100%;
+    border: 1px solid gray;
+    margin: 20px;
+}
+
+.testimonial-user-name{
+    color: #0E6EFD;
+}
+.testimonial-experience{
+    padding: 10px;
+    font-style: italic;
+    text-align: justify;
+    line-height: 1.5;
+    color: #000;
+}
+/*download-section*/
+#download{
+    background-color: #0E6EFD;
+    color: #FFFFFF;
+    font-family: 'Montserrat';
+    padding:5% 10% 5% 7%;
+    text-align: center;
+}
+
+.app-preview-img{
+    width: 50%;
+}
+
+.download-heading{
+    font-size: 3.5rem;
+    margin: 7% 0%;
+}
+
+.download-description{
+    font-size: 1.5rem;
+    margin: 3% 0%;
+}
+
+.btn-download{
+    margin: 3%;
+}
+/*contact-section*/
+#contact{
+    background-color: #FFFFFF;
+    font-family: 'Montserrat';
+    padding: 50px 100px;
+    text-align: center;
+}
+.footer-icons{
+    margin: 0 1% 5%;
+}
